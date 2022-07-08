@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.todo{
+  background-color: burlywood;
+ width: 600px;
+ margin: auto;
+ /* display: grid; */
+ border-radius: 5px;
+ margin-top: 5px;
+ padding: 3px;
+ margin-bottom: 2rem;
+}
